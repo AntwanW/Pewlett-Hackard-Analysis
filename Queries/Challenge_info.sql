@@ -9,7 +9,8 @@ FROM retirement_titles;
 -- Title count by Title
 SELECT COUNT(title), title
 FROM retirement_titles
-GROUP BY title;
+GROUP BY title
+ORDER BY COUNT (title) DESC;
 
 -- The Number of Employees Eligible for the Mentorship Program
 SELECT COUNT(*)
