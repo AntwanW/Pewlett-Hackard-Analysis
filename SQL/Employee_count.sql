@@ -27,7 +27,7 @@ AND (hire_date BETWEEN '1985-01-01' AND '1988-12-31');
 
 SELECT emp_no,
     first_name,
-last_name,
+	last_name,
     gender
 INTO emp_info
 FROM employees
@@ -36,7 +36,7 @@ AND (hire_date BETWEEN '1985-01-01' AND '1988-12-31');
 
 SELECT e.emp_no,
     e.first_name,
-e.last_name,
+	e.last_name,
     e.gender,
     s.salary,
     de.to_date
