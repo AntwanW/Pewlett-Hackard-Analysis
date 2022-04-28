@@ -10,9 +10,11 @@ This analysis aims to prepare Bobby's manager for the "silver tsunami" that will
 Pewlett-Hackard included only employees born between 1952 and 1955 in the calculation. This means that those born between these years will be retiring soon, and current employees born in 1965 are qualified to be mentors in the Mentorship Program.
 
 - 133.776 - Number of Retiring Employees by Title.
+
 ![This is an image](https://github.com/Wrancher123/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles_count.png)
 
 - 1,549 - Number of Employees Eligible for the Mentorship Program by Title.
+
 ![This is an image](https://github.com/Wrancher123/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility_title%20_count.png)
 
 
